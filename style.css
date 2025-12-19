@@ -1,0 +1,128 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-position: center;
+  background-color: rgb(213, 223, 238);
+}
+
+header {
+  border: 1px solid black;
+  height: 9.5vh;
+  width: 98.67vw;
+  display: flex;
+  background-color: rgba(0, 0, 0, 0.792);
+  margin-top: -1vh;
+}
+
+#products-row1 {
+  display: flex;
+  height: 57vh;
+  width: 99vw;
+  gap: 1.5vw;
+}
+
+#products-row2 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  height: 57vh;
+  width: 99vw;
+  margin-top: 4vh;
+  gap: 1.5vw;
+  margin-bottom: 11vh;
+}
+
+#electronic-essentials {
+  display: flex;
+  flex-wrap: wrap;
+  border: 1px solid rgb(0, 0, 0);
+  height: 57vh;
+  width: 23.5vw;
+  margin-top: 4.5vh;
+  border-radius: 5px;
+  background-color: aliceblue;
+  box-shadow: 3px 3px 3px;
+  box-shadow: color(srgb rgb(223, 60, 60) rgb(0, 0, 0) rgb(0, 0, 0))
+}
+
+#apple-products {
+  display: flex;
+  flex-wrap: wrap;
+  border: 1px solid rgb(0, 0, 0);
+  height: 57vh;
+  width: 23.5vw;
+  margin-top: 4.5vh;
+  border-radius: 5px;
+background-color: aliceblue;
+  box-shadow: 3px 3px 3px ;
+}
+
+#books {
+  display: flex;
+  flex-wrap: wrap;
+  border: 1px solid rgb(0, 0, 0);
+  height: 57vh;
+  width: 23.5vw;
+  margin-top: 4.5vh;
+  border-radius: 5px;
+background-color: aliceblue;
+  box-shadow: 3px 3px 3px;
+}
+
+#clothes {
+  display: flex;
+  flex-wrap: wrap;
+  border: 1px solid rgb(0, 0, 0);
+  height: 57vh;
+  width: 23.5vw;
+  margin-top: 4.5vh;
+  border-radius: 5px;
+background-color: aliceblue;
+  box-shadow: 3px 3px 3px;
+}
+
+#gaming-accessories {
+  display: flex;
+  flex-wrap: wrap;
+  border: 1px solid rgb(0, 0, 0);
+  height: 57vh;
+  width: 23.5vw;
+  margin-top: 5vh;
+  border-radius: 5px;
+  box-shadow: 3px 3px 3px;
+  background-color: aliceblue;
+}
+
+#stay-fit {
+  display: flex;
+  flex-wrap: wrap;
+  border: 1px solid rgb(0, 0, 0);
+  height: 57vh;
+  width: 23.5vw;
+  margin-top: 5vh;
+  border-radius: 5px;
+  box-shadow: 3px 3px 3px;
+  background-color: aliceblue;
+}
+
+#watches {
+  display: flex;
+  flex-wrap: wrap;
+  border: 1px solid rgb(0, 0, 0);
+  height: 57vh;
+  width: 23.5vw;
+  margin-top: 5vh;
+  border-radius: 5px;
+  box-shadow: 3px 3px 3px;
+  background-color: aliceblue;
+}
+
+#pc-accessories {
+  display: flex;
+  flex-wrap: wrap;
+  border: 1px solid rgb(0, 0, 0);
+  height: 57vh;
+  width: 23.5vw;
+  margin-top: 5vh;
+  border-radius: 5px;
+  box-shadow: 3px 3px 3px;
+  background-color: aliceblue;
+}
