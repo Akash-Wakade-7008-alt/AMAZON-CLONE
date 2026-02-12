@@ -35,6 +35,9 @@ Instead of focusing on complexity, this project focuses on what actually makes a
 
 ## 👀 Preview
 
+⭐ **Experience the animation live here:**  
+👉 https://amazon-clone-3ko3.vercel.app/
+
 <p align="center">
   <img src="./images/Amazon-website-preview.gif" width="100%" alt="Amazon Clone Preview"/>
 </p>
