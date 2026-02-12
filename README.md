@@ -27,41 +27,17 @@ Instead of focusing on complexity, this project focuses on what actually makes a
 ✅ Professional spacing  
 ✅ Visual hierarchy  
 ✅ Scalable folder structure  
-✅ Real-world UI replication  
+✅ Real-world UI replication
 
 > ⚡ Recruiters care more about **clean UI skills** than flashy frameworks — and this project demonstrates exactly that.
 
 ---
 
-## 🌐 Live Links
-
-👉 **Live Demo:** https://your-vercel-link.vercel.app  
-👉 **Source Code:** https://github.com/your-username/amazon-clone
-
-*(Replace with your actual links)*
-
----
-
-## 🚀 Tech Stack
+## 👀 Preview
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css&theme=dark"/>
+  <img src="./images/Amazon-website-preview.gif" width="100%" alt="Amazon Clone Preview"/>
 </p>
-
-✔ **HTML5** — semantic and accessible structure  
-✔ **CSS3** — modern styling, Flexbox, and layout control  
-
----
-
-## ⭐ Key Highlights
-
-🔥 Pixel-inspired Amazon layout  
-🔥 Fully structured navigation bar  
-🔥 Hero banners  
-🔥 Product grid system  
-🔥 Clean multi-column footer  
-🔥 Consistent spacing & alignment  
-🔥 Beginner-friendly yet recruiter-impressive  
 
 ---
 
@@ -85,13 +61,15 @@ amazon-clone/
 
 ---
 
-## 👀 Preview
+## ⭐ Key Highlights
 
-<p align="center">
-  <img src="./images/Amazon-website-preview.png" width="100%" alt="Amazon Clone Preview"/>
-</p>
-
-💡 *Tip: Adding a GIF preview here can instantly make your GitHub look more senior-level.*
+🔥 Pixel-inspired Amazon layout  
+🔥 Fully structured navigation bar  
+🔥 Hero banners  
+🔥 Product grid system  
+🔥 Clean multi-column footer  
+🔥 Consistent spacing & alignment  
+🔥 Beginner-friendly yet recruiter-impressive
 
 ---
 
@@ -103,9 +81,7 @@ This isn't just a clone — it demonstrates core frontend engineering skills:
 ✔ Strong CSS fundamentals  
 ✔ Understanding of layout systems  
 ✔ Attention to detail  
-✔ Clean code practices  
-
-These are the exact skills recruiters scan for in **internship candidates and junior developers.**
+✔ Clean code practices
 
 ---
 
@@ -116,9 +92,7 @@ These are the exact skills recruiters scan for in **internship candidates and ju
 ⬜ Implement authentication  
 ⬜ Convert into React  
 ⬜ Connect to a backend  
-⬜ Deploy a full-stack version  
-
-> 🚨 Doing this turns your profile from **student → developer.**
+⬜ Deploy a full-stack version
 
 ---
 
@@ -150,9 +124,4 @@ Give it a ⭐ on GitHub — it helps more than you think!
 
 <p align="center">
   <b>Consistency beats talent. Keep building. 🚀</b>
-</p>
-
-<!-- Elite Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,100:111827&height=120&section=footer"/>
 </p>
